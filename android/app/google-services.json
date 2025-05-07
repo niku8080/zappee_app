@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "308417552913",
+    "project_id": "zeppee-b609c",
+    "storage_bucket": "zeppee-b609c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308417552913:android:dd1f762b73a78cdbecc7b0",
+        "android_client_info": {
+          "package_name": "com.uktechservices.zappee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308417552913-ripaminl0vuu6p75cdmbe96sfo7bl9k3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uktechservices.zappee",
+            "certificate_hash": "4b53567d3655738911a0802c7cebf4ce05da0581"
+          }
+        },
+        {
+          "client_id": "308417552913-ei8d58bp3k0fjm7pa8nusvrmhftfhac4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBod0_G7Q2vybz3obI_MKFNw1L0hH-9bdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308417552913-ei8d58bp3k0fjm7pa8nusvrmhftfhac4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "308417552913-901eohf6lenfi477mkf5ep8j78v7ei8s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uktechservices.zappee"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
