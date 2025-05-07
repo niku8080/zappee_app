@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>308417552913-901eohf6lenfi477mkf5ep8j78v7ei8s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.308417552913-901eohf6lenfi477mkf5ep8j78v7ei8s</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>308417552913-ripaminl0vuu6p75cdmbe96sfo7bl9k3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDPNGb5ryjBd8u48EQIbUkAbUwfGA7Cy2c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>308417552913</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.uktechservices.zappee</string>
+	<key>PROJECT_ID</key>
+	<string>zeppee-b609c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zeppee-b609c.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:308417552913:ios:27d4f39db6e8b9b4ecc7b0</string>
+	<key>DATABASE_URL</key>
+	<string>https://zeppee-b609c-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
